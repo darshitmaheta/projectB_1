@@ -1,0 +1,5 @@
+.env  // present in the root directory, but should be ignored
+*.env // Ignore all .env files
+.env* // related or dummy or sample .env files
+./.gitignore
+./node_modules
