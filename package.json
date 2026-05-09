@@ -1,0 +1,20 @@
+{
+  "name": "backendproject_1",
+  "version": "1.0.0",
+  "description": "professionalisum",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "projectB_1"
+  },
+  "license": "ISC",
+  "author": "darshit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
